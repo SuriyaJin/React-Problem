@@ -1,0 +1,19 @@
+.inline-block {
+  display: inline-block !important;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.danger {
+  color: red;
+}
+
+.hand-symbol {
+  cursor: pointer;
+}
